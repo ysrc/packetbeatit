@@ -54,14 +54,3 @@ Beats](https://github.com/elastic/beats/blob/master/libbeat/docs/communitybeats.
 
 See our [CONTRIBUTING](CONTRIBUTING.md) file for information about setting up your dev
 environment to build Beats from the source.
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-##修改点
-
-1.添加url过滤
-
-2.添加host过滤
-
-使用：在配置里加上specify_host和specify_referer把需要的host和refer加上，不加默认全部接收。
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
